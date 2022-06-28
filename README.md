@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on starting
-- 🌱 I’m currently learning web development
+- 🔭 I’m currently working on e- commerce website and  creating chatting app
+- 🌱 I’m currently learning web development and e- commerce website 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...*******
 - 💬 Ask me about ...*******
